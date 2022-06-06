@@ -1,0 +1,22 @@
+{
+  "name": "async-javascript",
+  "version": "1.0.0",
+  "description": "In this repository we will be working with the Curso de Asincronismo con JavaScript 2019 from Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cricadev/async-javascript.git"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "cricadev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cricadev/async-javascript/issues"
+  },
+  "homepage": "https://github.com/cricadev/async-javascript#readme"
+}
