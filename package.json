@@ -4,7 +4,8 @@
   "description": "In this repository we will be working with the Curso de Asincronismo con JavaScript 2019 from Platzi",
   "main": "index.js",
   "scripts": {
-    "test": "node src/callback/index.js"
+    "test": "node src/callback/index.js",
+    "test:chall": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/cricadev/async-javascript/issues"
   },
-  "homepage": "https://github.com/cricadev/async-javascript#readme"
+  "homepage": "https://github.com/cricadev/async-javascript#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "xmlhttprequest": "^1.8.0"
+  }
 }
