@@ -9,7 +9,8 @@
     "test:chall": "node src/callback/challenge.js",
     "test:promise": "node src/promise/index.js",
     "test:promise:chall": "node src/promise/challenge.js",
-    "test:async": "node src/async/index.js"
+    "test:async": "node src/async/index.js",
+    "test:async:chall": "node src/async/challenge.js"
   },
   "repository": {
     "type": "git",
