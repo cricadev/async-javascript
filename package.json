@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "In this repository we will be working with the Curso de Asincronismo con JavaScript 2019 from Platzi",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "node src/callback/index.js",
     "test:chall": "node src/callback/challenge.js",
-    "test:promise": "node src/promise/index.js"
+    "test:promise": "node src/promise/index.js",
+    "test:promise:chall": "node src/promise/challenge.js"
   },
   "repository": {
     "type": "git",
